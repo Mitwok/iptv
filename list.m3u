@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.team/tvteam.0.1.xml"
+#EXTINF:0, Пункт назначения: Узы крови
+https://ia601401.us.archive.org/10/items/asgdhiu1kkjasdhk/asgdhiu1kkjasdhk.avi
 #EXTINF:0 tvg-name="РТР Планета" tvg-logo="http://troya.info/images/chIcons/337.png" tvg-rec="6", РТР Планета
 http://ru3.troya.info:34000/ch337/mono.m3u8?token=mitwok.IVDjZB1Md1m7_L3ooWq8S9FFZvMWtYpC1RGqyFDpwpWJny70ni-vU-vnpVoybKQS
 #EXTINF:0 tvg-name="Россия 1" tvg-logo="http://troya.info/images/chIcons/1644.png" tvg-rec="6", Россия 1
