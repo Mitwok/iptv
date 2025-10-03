@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.team/v3/epg/xml.gz/3.1/pkg/<#userPackages#>"
+#EXTM3U url-tvg="http://epg.team/tvteam.3.1.xml"
 #EXTINF:0 tvg-name="РТР Планета" tvg-logo="http://team.ga/images/chIcons/337.png" tvg-rec="6", РТР Планета
 http://ru3.team.ga:80/ch337/mono.m3u8?token=mitwok.v2_wL2vmwMSbEzdM5rYCwpE9NcBLnGBYtrT4JAYmyix5DaOGPBYmHKzmMZjlvsBWvaCtKMx6cz-8g
 #EXTINF:0 tvg-name="Россия 1 HD" tvg-logo="http://team.ga/images/chIcons/2.png" tvg-rec="6", Россия 1 HD
